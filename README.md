@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://static.monster010.de/logogit.webp" align="center" style="width: 100%" />
+<img src="logo.webp" align="center" style="width: 100%" />
 </div>  
   
 
