@@ -103,8 +103,9 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Kommentar zu Zusammenfassung Jahr 2021 von Plan 2022 » monster010.de](https://blog.monster010.de/2021/12/zusammenfassung-jahr-2021/#comment-6)
+- [Kommentar zu Projekte, Zeit und Privates von Zusammenfassung Jahr 2021 » monster010.de](https://blog.monster010.de/2021/08/projekte-zeit-und-privates/#comment-5)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
