@@ -7,11 +7,11 @@
   
 
 - 🔞 I've been programming since I was 9 years old.  
-  
+
+- 🌐 At the moment I am mainly concerned with websites.
 
 - ☠️ Usually friendly, but can also change quickly.  
   
-
 - ⚡ Fun fact: I love tabs  
   
 
