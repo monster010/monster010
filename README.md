@@ -104,8 +104,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Kommentar zu Zusammenfassung Jahr 2021 von Plan 2022 » monster010.de](https://blog.monster010.de/2021/12/zusammenfassung-jahr-2021/#comment-6)
-- [Kommentar zu Projekte, Zeit und Privates von Zusammenfassung Jahr 2021 » monster010.de](https://blog.monster010.de/2021/08/projekte-zeit-und-privates/#comment-5)
+- [Plan 2022](https://blog.monster010.de/2022/01/plan-2022/)
+- [Zusammenfassung Jahr 2021](https://blog.monster010.de/2021/12/zusammenfassung-jahr-2021/)
+- [Projekte, Zeit und Privates](https://blog.monster010.de/2021/08/projekte-zeit-und-privates/)
+- [System Update: 05.06.2021](https://blog.monster010.de/2021/06/system-update-05-06-2021/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
