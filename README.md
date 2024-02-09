@@ -104,10 +104,10 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Statusseite](https://blog.monster010.de/2024/02/statusseite/)
 - [Plan 2022](https://blog.monster010.de/2022/01/plan-2022/)
 - [Zusammenfassung Jahr 2021](https://blog.monster010.de/2021/12/zusammenfassung-jahr-2021/)
 - [Projekte, Zeit und Privates](https://blog.monster010.de/2021/08/projekte-zeit-und-privates/)
-- [System Update: 05.06.2021](https://blog.monster010.de/2021/06/system-update-05-06-2021/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
