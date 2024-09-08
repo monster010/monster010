@@ -17,6 +17,13 @@
 
 <br/>  
 
+## Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=monster010&api_domain=waka.cubemine.de&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monster010&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+
+<br/>
 
 ## My Skill Set  
 <table>
@@ -64,7 +71,6 @@
 <td valign="top" width="33%">
 
 ### DevOps  
-  
 <div align="center">  
   <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
   <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -75,29 +81,6 @@
     </td>
   </tr>
 </table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/monster010" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/_m0nster010" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://gitlab.com/monster010" target="_blank">
-    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=monster010&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -115,3 +98,20 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=monster010&&style=flat-square" align="center" />
 </div>  
+
+
+## Connect with me  
+<div align="center">
+  <a href="https://github.com/monster010" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/_m0nster010" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/monster010" target="_blank">
+    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+  
+
+<br/>  
