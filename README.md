@@ -89,7 +89,7 @@
 
 ## Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=monster010&api_domain=waka.code010.de&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=monster010&api_domain=waka.code010.de&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+6+Months%29&layout=compact" align="center" />
   <img src="https://github-readme-stats.vercel.app/api?username=monster010&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
