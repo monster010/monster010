@@ -15,6 +15,28 @@
 - ⚡ Fun fact: I love tabs  
   
 
+
+<br/>
+
+
+<div align="center">
+  <a href="https://github.com/monster010" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://bsky.app/profile/monster010.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/bluesky-1185FE.svg?&style=for-the-badge&logo=bluesky&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://discord.gg/FPz9P7XAHW" target="_blank">
+    <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://lt.m010.de/@monster010" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-43E55E.svg?&style=for-the-badge&logo=linktree&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/monster010" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" style="margin-bottom: 5px;" />
+  </a>
+</div> 
+
 <br/>  
 
 ## My Skill Set  
@@ -89,25 +111,22 @@
 
 ## Stats  
 <div align="center">
-  <img src="https://ghrm.code010.de/api/wakatime?username=monster010&api_domain=waka.code010.de&hide_border=true&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+6+Months%29&layout=compact" align="center" />
-  <img src="https://ghrm.code010.de/api/wakatime?username=monster010&show_icons=true&count_private=true&hide_border=true&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi.dev+Stats+%28Last+7+days%29&layout=compact" align="center" />
-</div>  
-
-<br/>
-
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/monster010" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/_m0nster010" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://gitlab.com/monster010" target="_blank">
-    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-  </a>  
-</div>  
+  <picture>
+    <source srcset="https://ghrm.code010.de/api/wakatime?username=monster010&api_domain=waka.code010.de&hide_border=true&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=code010.de+Stats+%28Last+6+Months%29&layout=compact" align="center"  media="(prefers-color-scheme: dark)" />
+    <source srcset="https://ghrm.code010.de/api/wakatime?username=monster010&api_domain=waka.code010.de&hide_border=true&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=code010.de+Stats+%28Last+6+Months%29&layout=compact" align="center"  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://ghrm.code010.de/api/wakatime?username=monster010&api_domain=waka.code010.de&hide_border=true&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=code010.de+Stats+%28Last+6+Months%29&layout=compact" />
+  </picture>
+  <picture>
+    <source srcset="https://ghrm.code010.de/api/wakatime?username=monster010&show_icons=true&count_private=true&hide_border=true&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=code010.de+Stats+%28Last+7+days%29&layout=compact" align="center" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://ghrm.code010.de/api/wakatime?username=monster010&show_icons=true&count_private=true&hide_border=true&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=code010.de+Stats+%28Last+7+days%29&layout=compact" align="center" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://ghrm.code010.de/api/wakatime?username=monster010&show_icons=true&count_private=true&hide_border=true&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=code010.de+Stats+%28Last+7+days%29&layout=compact" />
+  </picture>
+  <picture>
+    <source srcset="https://ghrm.code010.de/api?username=monster010&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://ghrm.code010.de/api?username=monster010&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://ghrm.code010.de/api/?username=monster010&show_icons=true" />
+  </picture>
+</div> 
   
 
 <br/>  
